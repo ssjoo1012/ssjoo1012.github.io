@@ -1,12 +1,20 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "프로젝트"
+    url: /project/
+  - title: "우분투 사용기"
+    url: /ubuntu/
+#  - title: "아카이브"
+#    url: /about/
+#  - title: "visit blog"
+#	url: https://ssjoo1012.github.io/
+#  - title: "About"
+#	url: /about/
+#   - title: "About"
+#     url: https://mmistakes.github.io/minimal-mistakes/about/
+#   - title: "Sample Posts"
+#     url: /year-archive/
+#   - title: "Sample Collections"
+#     url: /collection-archive/
+#   - title: "Sitemap"
+#     url: /sitemap/

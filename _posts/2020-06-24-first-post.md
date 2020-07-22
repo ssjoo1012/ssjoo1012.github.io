@@ -6,12 +6,13 @@ categories:
  - Blog
 tags:
  - Blog
+permalink: /first_post/
 last_modified_at: 2020.06.24
 ---
 
-side project , 공부한 것 기록.
-
-markdown 문법 공부
+사이드 프로젝트  
+우분투 사용기  
+우분투 아카이브  
 
 ```
 sample source code
